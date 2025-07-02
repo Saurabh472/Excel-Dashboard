@@ -24,6 +24,4 @@ This project features a dynamic Excel dashboard designed to visualize and analyz
 To create an easy-to-use and visually appealing dashboard in Excel that supports real-time business decision-making without the need for programming tools.
 
 ## 📸 Screenshots
-*Include screenshots of your dashboard here. Upload them to the repository and link them like below:*
-```markdown
 ![Dashboard Overview](./Screenshot1.png)
