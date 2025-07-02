@@ -26,4 +26,4 @@ To create an easy-to-use and visually appealing dashboard in Excel that supports
 ## 📸 Screenshots
 *Include screenshots of your dashboard here. Upload them to the repository and link them like below:*
 ```markdown
-![Dashboard Overview](./screenshot1.png)
+![Dashboard Overview](./Screenshot1.png)
