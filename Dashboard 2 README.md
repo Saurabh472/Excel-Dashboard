@@ -23,6 +23,4 @@ This Excel dashboard provides a comprehensive visual analysis of key metrics rel
 ## 🎯 Objective
 To develop a user-friendly Excel dashboard that consolidates key metrics into a single view, enabling quick insights for management and business strategy teams.
 ## 📸 Screenshots
-*Add dashboard images once uploaded:*
-```markdown
-![Dashboard Screenshot](./screenshot2.png)
+![Dashboard Screenshot](./Screenshot2.png)
