@@ -1,4 +1,4 @@
-# 📊 Excel Dashboard – [Insert Topic e.g., Marketing Campaign Performance]
+# 📊 Excel Dashboard – 
 
 ## 📝 Project Overview
 This Excel dashboard provides a comprehensive visual analysis of key metrics related to [Insert Topic, e.g., marketing campaigns, operational KPIs, financial performance]. Designed for quick and effective decision-making, it allows users to interact with and explore trends, comparisons, and performance indicators.
